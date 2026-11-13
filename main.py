@@ -6,7 +6,7 @@
 import os
 from pathlib import Path
 
-JOKE = "I asked my agent to explain the code it wrote 90 seconds ago. It said, 'Great question,' and started guessing like it had been hired that morning."
+JOKE = "My agent spawned six subagents to parallelize the work, then spent longer merging their conflicts than the work itself. It had invented management."
 
 
 def main():
